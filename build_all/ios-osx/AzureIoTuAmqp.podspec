@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AzureIoTuAmqp'
-  s.version          = '0.0.0.1-pre-release'
+  s.version          = '0.0.0.1-pre-release.0.0.1'
   s.summary          = 'Unfinished AzureIoTuAmqp preview library for CocoaPods.'
 
   s.description      = <<-DESC
@@ -36,5 +36,5 @@ release of the Azure C uAMQP library.
     'ALWAYS_SEARCH_USER_PATHS' => 'NO'
   }
   
-  s.dependency 'AzureIoTUtility', '0.0.0.1-pre-release'
+  s.dependency 'AzureIoTUtility', '0.0.0.1-pre-release.0.0.1'
 end

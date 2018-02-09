@@ -12,7 +12,6 @@ release of the Azure C uAMQP library.
 
   s.homepage         = 'https://github.com/azure/azure-uamqp-c'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  #s.author           = { 'Roy Sprowl' => 'v-royspr@microsoft.com' }
   s.author           = { 'Microsoft' => '' }
   s.source           = { :git => 'https://github.com/Azure/azure-uamqp-c.git', :branch => 'ios-pod' }
 
